@@ -11,4 +11,4 @@ Le jeu se joue dans la console d'execution.
 Ce projet à été fait en 1ière au Lycée Marlioz, par groupe de 3 ou 4.
 Nous avions 1mois pour le réaliser avec 8h de cours.
 
-Vous avez le détail du sujet, avec les contraintes de code en pdf
+Le détail du sujet est disponible en pdf.
