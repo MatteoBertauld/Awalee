@@ -1,4 +1,4 @@
-Awalee sans interface graphique programmer en python.
+Awalé sans interface graphique programmé en python.
 
 
 Pour lancer le jeu il vous faut un interpréteur Python, au lycée nous utilisons Pyzo.
