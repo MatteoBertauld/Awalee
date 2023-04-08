@@ -3,7 +3,7 @@ Awalee sans interface graphique programmer en python.
 
 Pour lancer le jeu il vous faut un interpréteur Python, au lycée nous utilisons Pyzo.
 
-Ensuite il suffit d’exécuter la fonction jouer() du fichier awale code.py 
+Ensuite il suffit d’exécuter la fonction jeu() du fichier awale code.py 
 
 Le jeu se joue dans la console d'execution.
 
